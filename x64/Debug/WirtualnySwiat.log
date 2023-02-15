@@ -1,0 +1,23 @@
+﻿  Antylopa.cpp
+  BarszczSosnowskiego.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  KreatorOrganizmow.cpp
+  Lis.cpp
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  WS.cpp
+C:\Users\marzi\source\repos\WirtualnySwiat\Cpp\WS.cpp(11,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Punkt.cpp
+  Roslina.cpp
+  Swiat.cpp
+  Trawa.cpp
+  WilczeJagody.cpp
+  Wilk.cpp
+  Zolw.cpp
+  Zwierze.cpp
+  Generowanie kodu...
+C:\Users\marzi\source\repos\WirtualnySwiat\Cpp\Zwierze.cpp(96): warning C4715: "Zwierze::CzyWygralWalke”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\marzi\source\repos\WirtualnySwiat\Cpp\Swiat.cpp(416): warning C4715: "Swiat::WczytajZPliku”: niewszystkie ścieżki kodu zwracają wartość
+  WirtualnySwiat.vcxproj -> C:\Users\marzi\source\repos\WirtualnySwiat\x64\Debug\WirtualnySwiat.exe
